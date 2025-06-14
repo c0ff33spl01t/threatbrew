@@ -1,0 +1,4 @@
+export EMAIL_SENDER="example@gmail.com"
+export EMAIL_PASSWORD="GOOGLE-APPS-PASSWORD"
+export EMAIL_RECIPIENT="example@gmail.com"
+export GOOGLE_API_KEY="GOOGLE-API-KEY"

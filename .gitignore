@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+cyber-env/
+
+# Environment variables file with secrets
+setupEnv.sh
+
+# macOS system files
+.DS_Store

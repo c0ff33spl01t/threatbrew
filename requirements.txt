@@ -1,0 +1,7 @@
+# This file lists the Python packages needed to run the ThreatBrew script.
+# Install them all using the command: pip install -r requirements.txt
+
+feedparser==6.0.11
+markdown==3.6
+# This specific version of the library uses the `from google import genai` structure.
+google-generativeai==0.7.1
